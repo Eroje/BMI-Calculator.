@@ -1,4 +1,3 @@
-
 body {
     font-family: "Montserrat";
     text-align: center;
@@ -12,11 +11,14 @@ body {
 .calculator-container {
     padding: 7% 15%;
 }
-.kg {
-    margin-top: 3%;
-}
 .kg-ht {
     font-family: "Montserrat-Black";
     font-size: 1.5rem;
     color: aqua;
+    margin-top: 3%;
+}
+.bmi {
+    font-family: "Montserrat-Black";
+    font-size: 1.5rem;
+    color: #181823;
 }
