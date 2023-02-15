@@ -1,0 +1,22 @@
+
+body {
+    font-family: "Montserrat";
+    text-align: center;
+    background-color: #A084DC;
+}
+
+.btn {
+    margin: 3%;
+}
+
+.calculator-container {
+    padding: 7% 15%;
+}
+.kg {
+    margin-top: 3%;
+}
+.kg-ht {
+    font-family: "Montserrat-Black";
+    font-size: 1.5rem;
+    color: aqua;
+}
