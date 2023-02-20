@@ -22,3 +22,7 @@ calculateButton.addEventListener("click", ()=>{
         statement.innerText = "Your BMI falls within the obese range"
     }
 }); 
+
+document.getElementById("output1").style.color = "aqua";
+document.getElementById("output1").style.fontSize = "1.2rem";
+document.getElementById("output1").style.fontFamily = "Montserrat-Black";
